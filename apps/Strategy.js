@@ -5,8 +5,6 @@ import Wiki from '../components/Wiki.js';
 import fs from 'fs';
 
 const AUTHORS = [
-    { name: "小沐XMu", path: "/Strategy/XMu/" },
-    { name: "Moealkyne", path: "/Strategy/moealkyne/" },
     { name: "金铃子攻略组", path: "/Strategy/Linn/" }
 ];
 
